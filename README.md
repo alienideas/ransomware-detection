@@ -86,7 +86,7 @@ Provided as-is for defensive security operations. Test thoroughly in a non-produ
 - [Troubleshooting](#troubleshooting)
 - [Security Hardening Recommendations](#security-hardening-recommendations)
 - [Limitations & Complementary Controls](#limitations--complementary-controls)
-- [Keywords for Search & Discovery](#keywords-for-search--discovery)
+- [Keywords]
 - [License & Disclaimer](#license--disclaimer)
 
 ---
@@ -405,7 +405,7 @@ For higher fidelity, combine with:
 **Primary keywords:**  
 ransomware detection, archive staging detection, data exfiltration detection, ransomware precursor detection, unauthorized zip detection, temp directory monitoring, ransomware early warning
 
-**Secondary keywords:**  
+**keywords:**  
 PowerShell ransomware script, Linux ransomware detection bash, detect zip rar 7z staging, data staging detection, server temp folder security, ransomware data exfiltration indicator, SOC early detection script, blue team ransomware detection, automated ransomware alert, Task Scheduler ransomware scan, cron ransomware detection
 
 **Long-tail phrases:**  
